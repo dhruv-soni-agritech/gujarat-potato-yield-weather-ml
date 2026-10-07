@@ -1,0 +1,864 @@
+Year,Zone,District,Area_ha,Production_MT,Productivity_MT_per_ha,Productivity_Source
+1994-95,Middle Gujarat,Ahmedabad,2350,58750,25,Reported
+1994-95,Middle Gujarat,Anand,0,0,0,Reported
+1994-95,Middle Gujarat,Kheda,4150,103750,25,Reported
+1994-95,Middle Gujarat,Panchmahal,0,0,0,Reported
+1994-95,Middle Gujarat,Dahod,0,0,0,Reported
+1994-95,Middle Gujarat,Vadodara,550,13750,25,Reported
+1994-95,North Gujarat,Banaskantha,6450,161250,25,Reported
+1994-95,North Gujarat,Patan,0,0,0,Reported
+1994-95,North Gujarat,Mehsana,4900,122500,25,Reported
+1994-95,North Gujarat,Sabarkantha,850,21250,25,Reported
+1994-95,North Gujarat,Gandhinagar,400,10000,25,Reported
+1994-95,Saurashtra-Kutch,Kutch,150,3750,25,Reported
+1994-95,Saurashtra-Kutch,Surendranagar,0,0,0,Reported
+1994-95,Saurashtra-Kutch,Rajkot,0,0,0,Reported
+1994-95,Saurashtra-Kutch,Jamnagar,200,5000,25,Reported
+1994-95,Saurashtra-Kutch,Porbandar,0,0,0,Reported
+1994-95,Saurashtra-Kutch,Junagadh,0,0,0,Reported
+1994-95,Saurashtra-Kutch,Amreli,0,0,0,Reported
+1994-95,Saurashtra-Kutch,Bhavnagar,0,0,0,Reported
+1994-95,South Gujarat,Surat,0,0,0,Reported
+1994-95,South Gujarat,Narmada,0,0,0,Reported
+1994-95,South Gujarat,Bharuch,0,0,0,Reported
+1994-95,South Gujarat,Dang,0,0,0,Reported
+1994-95,South Gujarat,Navsari,0,0,0,Reported
+1994-95,South Gujarat,Valsad,0,0,0,Reported
+1995-96,Middle Gujarat,Ahmedabad,1250,25000,20,Reported
+1995-96,Middle Gujarat,Anand,0,0,0,Reported
+1995-96,Middle Gujarat,Kheda,5410,124430,23,Reported
+1995-96,Middle Gujarat,Panchmahal,100,2500,25,Reported
+1995-96,Middle Gujarat,Dahod,0,0,0,Reported
+1995-96,Middle Gujarat,Vadodara,585,14625,25,Reported
+1995-96,North Gujarat,Banaskantha,7326,183150,25,Reported
+1995-96,North Gujarat,Patan,0,0,0,Reported
+1995-96,North Gujarat,Mehsana,5600,89600,16,Reported
+1995-96,North Gujarat,Sabarkantha,1242,30430,24.5,Reported
+1995-96,North Gujarat,Gandhinagar,520,9740,18.73,Reported
+1995-96,Saurashtra-Kutch,Kutch,50,500,10,Reported
+1995-96,Saurashtra-Kutch,Surendranagar,0,0,0,Reported
+1995-96,Saurashtra-Kutch,Rajkot,0,0,0,Reported
+1995-96,Saurashtra-Kutch,Jamnagar,298,5364,18,Reported
+1995-96,Saurashtra-Kutch,Porbandar,0,0,0,Reported
+1995-96,Saurashtra-Kutch,Junagadh,0,0,0,Reported
+1995-96,Saurashtra-Kutch,Amreli,0,0,0,Reported
+1995-96,Saurashtra-Kutch,Bhavnagar,0,0,0,Reported
+1995-96,South Gujarat,Surat,0,0,0,Reported
+1995-96,South Gujarat,Narmada,0,0,0,Reported
+1995-96,South Gujarat,Bharuch,0,0,0,Reported
+1995-96,South Gujarat,Dang,0,0,0,Reported
+1995-96,South Gujarat,Navsari,0,0,0,Reported
+1995-96,South Gujarat,Valsad,0,0,0,Reported
+1996-97,Middle Gujarat,Ahmedabad,2400,62900,26.21,Reported
+1996-97,Middle Gujarat,Anand,0,0,0,Reported
+1996-97,Middle Gujarat,Kheda,69900,187200,2.68,Reported
+1996-97,Middle Gujarat,Panchmahal,100,1900,19,Reported
+1996-97,Middle Gujarat,Dahod,0,0,0,Reported
+1996-97,Middle Gujarat,Vadodara,600,16000,26.67,Reported
+1996-97,North Gujarat,Banaskantha,7700,232100,30.14,Reported
+1996-97,North Gujarat,Patan,0,0,0,Reported
+1996-97,North Gujarat,Mehsana,4900,93300,19.04,Reported
+1996-97,North Gujarat,Sabarkantha,4600,122300,26.59,Reported
+1996-97,North Gujarat,Gandhinagar,600,17000,28.33,Reported
+1996-97,Saurashtra-Kutch,Kutch,100,3000,30,Reported
+1996-97,Saurashtra-Kutch,Surendranagar,0,0,0,Reported
+1996-97,Saurashtra-Kutch,Rajkot,0,0,0,Reported
+1996-97,Saurashtra-Kutch,Jamnagar,100,3600,36,Reported
+1996-97,Saurashtra-Kutch,Porbandar,0,0,0,Reported
+1996-97,Saurashtra-Kutch,Junagadh,0,0,0,Reported
+1996-97,Saurashtra-Kutch,Amreli,0,0,0,Reported
+1996-97,Saurashtra-Kutch,Bhavnagar,0,100,0,Reported
+1996-97,South Gujarat,Surat,0,0,0,Reported
+1996-97,South Gujarat,Narmada,0,0,0,Reported
+1996-97,South Gujarat,Bharuch,0,0,0,Reported
+1996-97,South Gujarat,Dang,0,0,0,Reported
+1996-97,South Gujarat,Navsari,0,0,0,Reported
+1996-97,South Gujarat,Valsad,0,0,0,Reported
+1997-98,Middle Gujarat,Ahmedabad,2500,50000,20,Reported
+1997-98,Middle Gujarat,Anand,0,0,0,Reported
+1997-98,Middle Gujarat,Kheda,8000,150700,18.84,Reported
+1997-98,Middle Gujarat,Panchmahal,100,2400,24,Reported
+1997-98,Middle Gujarat,Dahod,0,0,0,Reported
+1997-98,Middle Gujarat,Vadodara,800,17400,21.75,Reported
+1997-98,North Gujarat,Banaskantha,7300,198700,27.22,Reported
+1997-98,North Gujarat,Patan,0,0,0,Reported
+1997-98,North Gujarat,Mehsana,4600,86800,18.87,Reported
+1997-98,North Gujarat,Sabarkantha,4200,92200,21.95,Reported
+1997-98,North Gujarat,Gandhinagar,800,18100,22.63,Reported
+1997-98,Saurashtra-Kutch,Kutch,300,6200,20.67,Reported
+1997-98,Saurashtra-Kutch,Surendranagar,0,0,0,Reported
+1997-98,Saurashtra-Kutch,Rajkot,0,0,0,Reported
+1997-98,Saurashtra-Kutch,Jamnagar,100,1400,14,Reported
+1997-98,Saurashtra-Kutch,Porbandar,0,0,0,Reported
+1997-98,Saurashtra-Kutch,Junagadh,0,0,0,Reported
+1997-98,Saurashtra-Kutch,Amreli,0,0,0,Reported
+1997-98,Saurashtra-Kutch,Bhavnagar,0,0,0,Reported
+1997-98,South Gujarat,Surat,0,0,0,Reported
+1997-98,South Gujarat,Narmada,0,0,0,Reported
+1997-98,South Gujarat,Bharuch,0,0,0,Reported
+1997-98,South Gujarat,Dang,0,0,0,Reported
+1997-98,South Gujarat,Navsari,0,0,0,Reported
+1997-98,South Gujarat,Valsad,0,0,0,Reported
+1998-99,Middle Gujarat,Ahmedabad,3100,72300,23.32,Reported
+1998-99,Middle Gujarat,Anand,2835,52300,18.45,Reported
+1998-99,Middle Gujarat,Kheda,5465,100800,18.44,Reported
+1998-99,Middle Gujarat,Panchmahal,80,2240,28,Reported
+1998-99,Middle Gujarat,Dahod,20,560,28,Reported
+1998-99,Middle Gujarat,Vadodara,600,13400,22.33,Reported
+1998-99,North Gujarat,Banaskantha,7800,220700,28.29,Reported
+1998-99,North Gujarat,Patan,543,10200,18.78,Reported
+1998-99,North Gujarat,Mehsana,4657,87300,18.75,Reported
+1998-99,North Gujarat,Sabarkantha,5400,129500,23.98,Reported
+1998-99,North Gujarat,Gandhinagar,700,15800,22.57,Reported
+1998-99,Saurashtra-Kutch,Kutch,100,1800,18,Reported
+1998-99,Saurashtra-Kutch,Surendranagar,0,0,0,Reported
+1998-99,Saurashtra-Kutch,Rajkot,0,0,0,Reported
+1998-99,Saurashtra-Kutch,Jamnagar,300,6000,20,Reported
+1998-99,Saurashtra-Kutch,Porbandar,0,0,0,Reported
+1998-99,Saurashtra-Kutch,Junagadh,0,0,0,Reported
+1998-99,Saurashtra-Kutch,Amreli,0,0,0,Reported
+1998-99,Saurashtra-Kutch,Bhavnagar,0,0,0,Reported
+1998-99,South Gujarat,Surat,0,0,0,Reported
+1998-99,South Gujarat,Narmada,0,0,0,Reported
+1998-99,South Gujarat,Bharuch,0,0,0,Reported
+1998-99,South Gujarat,Dang,0,0,0,Reported
+1998-99,South Gujarat,Navsari,0,0,0,Reported
+1998-99,South Gujarat,Valsad,0,0,0,Reported
+1999-00,Middle Gujarat,Ahmedabad,275,5500,20,Reported
+1999-00,Middle Gujarat,Anand,5575,13938,2.5,Reported
+1999-00,Middle Gujarat,Kheda,5465,100800,18.44,Reported
+1999-00,Middle Gujarat,Panchmahal,61,1260,20.66,Reported
+1999-00,Middle Gujarat,Dahod,70,610,8.71,Reported
+1999-00,Middle Gujarat,Vadodara,1047,23034,22,Reported
+1999-00,North Gujarat,Banaskantha,14848,371200,25,Reported
+1999-00,North Gujarat,Patan,205,5125,25,Reported
+1999-00,North Gujarat,Mehsana,3692,73840,20,Reported
+1999-00,North Gujarat,Sabarkantha,3940,70920,18,Reported
+1999-00,North Gujarat,Gandhinagar,2580,57600,22.33,Reported
+1999-00,Saurashtra-Kutch,Kutch,95,2375,25,Reported
+1999-00,Saurashtra-Kutch,Surendranagar,0,0,0,Reported
+1999-00,Saurashtra-Kutch,Rajkot,0,0,0,Reported
+1999-00,Saurashtra-Kutch,Jamnagar,130,2250,17.31,Reported
+1999-00,Saurashtra-Kutch,Porbandar,0,0,0,Reported
+1999-00,Saurashtra-Kutch,Junagadh,0,0,0,Reported
+1999-00,Saurashtra-Kutch,Amreli,0,0,0,Reported
+1999-00,Saurashtra-Kutch,Bhavnagar,0,0,0,Reported
+1999-00,South Gujarat,Surat,0,0,0,Reported
+1999-00,South Gujarat,Narmada,0,0,0,Reported
+1999-00,South Gujarat,Bharuch,0,0,0,Reported
+1999-00,South Gujarat,Dang,0,0,0,Reported
+1999-00,South Gujarat,Navsari,0,0,0,Reported
+1999-00,South Gujarat,Valsad,0,0,0,Reported
+2000-01,Middle Gujarat,Ahmedabad,250,5000,20,Reported
+2000-01,Middle Gujarat,Anand,5710,131330,23,Reported
+2000-01,Middle Gujarat,Kheda,6510,204300,31.38,Reported
+2000-01,Middle Gujarat,Panchmahal,39,897,23,Reported
+2000-01,Middle Gujarat,Dahod,44,380,8.64,Reported
+2000-01,Middle Gujarat,Vadodara,341,6320,18.53,Reported
+2000-01,North Gujarat,Banaskantha,14940,374400,25.06,Reported
+2000-01,North Gujarat,Patan,240,4320,18,Reported
+2000-01,North Gujarat,Mehsana,2930,58600,20,Reported
+2000-01,North Gujarat,Sabarkantha,6250,149835,23.97,Reported
+2000-01,North Gujarat,Gandhinagar,3974,88739,22.33,Reported
+2000-01,Saurashtra-Kutch,Kutch,231,5775,25,Reported
+2000-01,Saurashtra-Kutch,Surendranagar,0,0,0,Reported
+2000-01,Saurashtra-Kutch,Rajkot,0,0,0,Reported
+2000-01,Saurashtra-Kutch,Jamnagar,165,3270,19.82,Reported
+2000-01,Saurashtra-Kutch,Porbandar,0,0,0,Reported
+2000-01,Saurashtra-Kutch,Junagadh,0,0,0,Reported
+2000-01,Saurashtra-Kutch,Amreli,0,0,0,Reported
+2000-01,Saurashtra-Kutch,Bhavnagar,0,0,0,Reported
+2000-01,South Gujarat,Surat,0,0,0,Reported
+2000-01,South Gujarat,Narmada,0,0,0,Reported
+2000-01,South Gujarat,Bharuch,0,0,0,Reported
+2000-01,South Gujarat,Dang,0,0,0,Reported
+2000-01,South Gujarat,Navsari,0,0,0,Reported
+2000-01,South Gujarat,Valsad,0,0,0,Reported
+2001-02,Middle Gujarat,Ahmedabad,2100,45700,21.76,Reported
+2001-02,Middle Gujarat,Anand,0,0,0,Reported
+2001-02,Middle Gujarat,Kheda,6500,126200,19.42,Reported
+2001-02,Middle Gujarat,Panchmahal,0,0,0,Reported
+2001-02,Middle Gujarat,Dahod,0,0,0,Reported
+2001-02,Middle Gujarat,Vadodara,600,13000,21.67,Reported
+2001-02,North Gujarat,Banaskantha,14300,438600,30.67,Reported
+2001-02,North Gujarat,Patan,0,0,0,Reported
+2001-02,North Gujarat,Mehsana,4500,82600,18.36,Reported
+2001-02,North Gujarat,Sabarkantha,3700,81700,22.08,Reported
+2001-02,North Gujarat,Gandhinagar,500,11500,23,Reported
+2001-02,Saurashtra-Kutch,Kutch,100,2700,27,Reported
+2001-02,Saurashtra-Kutch,Surendranagar,0,0,0,Reported
+2001-02,Saurashtra-Kutch,Rajkot,0,0,0,Reported
+2001-02,Saurashtra-Kutch,Jamnagar,0,0,0,Reported
+2001-02,Saurashtra-Kutch,Porbandar,0,0,0,Reported
+2001-02,Saurashtra-Kutch,Junagadh,0,0,0,Reported
+2001-02,Saurashtra-Kutch,Amreli,0,0,0,Reported
+2001-02,Saurashtra-Kutch,Bhavnagar,0,0,0,Reported
+2001-02,South Gujarat,Surat,0,0,0,Reported
+2001-02,South Gujarat,Narmada,0,0,0,Reported
+2001-02,South Gujarat,Bharuch,0,0,0,Reported
+2001-02,South Gujarat,Dang,0,0,0,Reported
+2001-02,South Gujarat,Navsari,0,0,0,Reported
+2001-02,South Gujarat,Valsad,0,0,0,Reported
+2002-03,Middle Gujarat,Ahmedabad,931,20532,22.05,Reported
+2002-03,Middle Gujarat,Anand,2237,39526,17.67,Reported
+2002-03,Middle Gujarat,Kheda,6500,114852,17.67,Reported
+2002-03,Middle Gujarat,Panchmahal,15,327,21.8,Reported
+2002-03,Middle Gujarat,Dahod,0,0,0,Reported
+2002-03,Middle Gujarat,Vadodara,577,12573,21.79,Reported
+2002-03,North Gujarat,Banaskantha,16455,433119,26.32,Reported
+2002-03,North Gujarat,Patan,226,3720,16.46,Reported
+2002-03,North Gujarat,Mehsana,4564,75105,16.46,Reported
+2002-03,North Gujarat,Sabarkantha,3385,60548,17.89,Reported
+2002-03,North Gujarat,Gandhinagar,639,13924,21.79,Reported
+2002-03,Saurashtra-Kutch,Kutch,190,4141,21.79,Reported
+2002-03,Saurashtra-Kutch,Surendranagar,0,0,0,Reported
+2002-03,Saurashtra-Kutch,Rajkot,0,0,0,Reported
+2002-03,Saurashtra-Kutch,Jamnagar,75,1634,21.79,Reported
+2002-03,Saurashtra-Kutch,Porbandar,0,0,0,Reported
+2002-03,Saurashtra-Kutch,Junagadh,0,0,0,Reported
+2002-03,Saurashtra-Kutch,Amreli,0,0,0,Reported
+2002-03,Saurashtra-Kutch,Bhavnagar,0,0,0,Reported
+2002-03,South Gujarat,Surat,0,0,0,Reported
+2002-03,South Gujarat,Narmada,0,0,0,Reported
+2002-03,South Gujarat,Bharuch,0,0,0,Reported
+2002-03,South Gujarat,Dang,0,0,0,Reported
+2002-03,South Gujarat,Navsari,0,0,0,Reported
+2002-03,South Gujarat,Valsad,0,0,0,Reported
+2003-04,Middle Gujarat,Ahmedabad,88,1760,20,Reported
+2003-04,Middle Gujarat,Anand,3482,52230,15,Reported
+2003-04,Middle Gujarat,Kheda,5197,129925,25,Reported
+2003-04,Middle Gujarat,Panchmahal,63,1260,20,Reported
+2003-04,Middle Gujarat,Dahod,40,1000,25,Reported
+2003-04,Middle Gujarat,Vadodara,682,13640,20,Reported
+2003-04,North Gujarat,Banaskantha,13025,325625,25,Reported
+2003-04,North Gujarat,Patan,50,1000,20,Reported
+2003-04,North Gujarat,Mehsana,2817,47889,17,Reported
+2003-04,North Gujarat,Sabarkantha,4090,102250,25,Reported
+2003-04,North Gujarat,Gandhinagar,550,13750,25,Reported
+2003-04,Saurashtra-Kutch,Kutch,317,3170,10,Reported
+2003-04,Saurashtra-Kutch,Surendranagar,0,0,0,Reported
+2003-04,Saurashtra-Kutch,Rajkot,0,0,0,Reported
+2003-04,Saurashtra-Kutch,Jamnagar,800,10400,13,Reported
+2003-04,Saurashtra-Kutch,Porbandar,0,0,0,Reported
+2003-04,Saurashtra-Kutch,Junagadh,0,0,0,Reported
+2003-04,Saurashtra-Kutch,Amreli,0,0,0,Reported
+2003-04,Saurashtra-Kutch,Bhavnagar,0,0,0,Reported
+2003-04,South Gujarat,Surat,0,0,0,Reported
+2003-04,South Gujarat,Narmada,0,0,0,Reported
+2003-04,South Gujarat,Bharuch,0,0,0,Reported
+2003-04,South Gujarat,Dang,10,200,20,Reported
+2003-04,South Gujarat,Navsari,0,0,0,Reported
+2003-04,South Gujarat,Valsad,0,0,0,Reported
+2004-05,Middle Gujarat,Ahmedabad,0,0,0,Reported
+2004-05,Middle Gujarat,Anand,3382,74404,22,Reported
+2004-05,Middle Gujarat,Kheda,4500,117000,26,Reported
+2004-05,Middle Gujarat,Panchmahal,75,1500,20,Reported
+2004-05,Middle Gujarat,Dahod,0,0,0,Reported
+2004-05,Middle Gujarat,Vadodara,1000,17000,17,Reported
+2004-05,North Gujarat,Banaskantha,22400,504000,22.5,Reported
+2004-05,North Gujarat,Patan,50,800,16,Reported
+2004-05,North Gujarat,Mehsana,4870,82790,17,Reported
+2004-05,North Gujarat,Sabarkantha,4017,116493,29,Reported
+2004-05,North Gujarat,Gandhinagar,1792,44800,25,Reported
+2004-05,Saurashtra-Kutch,Kutch,255,6375,25,Reported
+2004-05,Saurashtra-Kutch,Surendranagar,0,0,0,Reported
+2004-05,Saurashtra-Kutch,Rajkot,0,0,0,Reported
+2004-05,Saurashtra-Kutch,Jamnagar,920,12880,14,Reported
+2004-05,Saurashtra-Kutch,Porbandar,0,0,0,Reported
+2004-05,Saurashtra-Kutch,Junagadh,0,0,0,Reported
+2004-05,Saurashtra-Kutch,Amreli,0,0,0,Reported
+2004-05,Saurashtra-Kutch,Bhavnagar,0,0,0,Reported
+2004-05,South Gujarat,Surat,0,0,0,Reported
+2004-05,South Gujarat,Narmada,0,0,0,Reported
+2004-05,South Gujarat,Bharuch,0,0,0,Reported
+2004-05,South Gujarat,Dang,7,140,20,Reported
+2004-05,South Gujarat,Navsari,0,0,0,Reported
+2004-05,South Gujarat,Valsad,0,0,0,Reported
+2005-06,Middle Gujarat,Ahmedabad,3,60,20,Calculated
+2005-06,Middle Gujarat,Anand,5542,166260,30,Calculated
+2005-06,Middle Gujarat,Kheda,4926,147780,30,Calculated
+2005-06,Middle Gujarat,Panchmahal,65,1300,20,Calculated
+2005-06,Middle Gujarat,Dahod,500,9250,18.5,Calculated
+2005-06,Middle Gujarat,Vadodara,800,16000,20,Calculated
+2005-06,North Gujarat,Banaskantha,16500,470250,28.5,Calculated
+2005-06,North Gujarat,Patan,220,4400,20,Calculated
+2005-06,North Gujarat,Mehsana,2774,49932,18,Calculated
+2005-06,North Gujarat,Sabarkantha,4700,103400,22,Calculated
+2005-06,North Gujarat,Gandhinagar,3582,99472,27.77,Calculated
+2005-06,Saurashtra-Kutch,Kutch,255,6375,25,Calculated
+2005-06,Saurashtra-Kutch,Surendranagar,0,0,0,N/A (zero area)
+2005-06,Saurashtra-Kutch,Rajkot,0,0,0,N/A (zero area)
+2005-06,Saurashtra-Kutch,Jamnagar,1125,14051,12.49,Calculated
+2005-06,Saurashtra-Kutch,Porbandar,0,0,0,N/A (zero area)
+2005-06,Saurashtra-Kutch,Junagadh,0,0,0,N/A (zero area)
+2005-06,Saurashtra-Kutch,Amreli,0,0,0,N/A (zero area)
+2005-06,Saurashtra-Kutch,Bhavnagar,0,0,0,N/A (zero area)
+2005-06,South Gujarat,Surat,0,0,0,N/A (zero area)
+2005-06,South Gujarat,Narmada,0,0,0,N/A (zero area)
+2005-06,South Gujarat,Bharuch,0,0,0,N/A (zero area)
+2005-06,South Gujarat,Dang,0,0,0,N/A (zero area)
+2005-06,South Gujarat,Navsari,0,0,0,N/A (zero area)
+2005-06,South Gujarat,Valsad,0,0,0,N/A (zero area)
+2006-07,Middle Gujarat,Ahmedabad,24,624,26,Calculated
+2006-07,Middle Gujarat,Anand,6095,188940,31,Calculated
+2006-07,Middle Gujarat,Kheda,5500,165000,30,Calculated
+2006-07,Middle Gujarat,Panchmahal,80,1600,20,Calculated
+2006-07,Middle Gujarat,Dahod,165,3300,20,Calculated
+2006-07,Middle Gujarat,Vadodara,850,17850,21,Calculated
+2006-07,North Gujarat,Banaskantha,21915,613620,28,Calculated
+2006-07,North Gujarat,Patan,210,4410,21,Calculated
+2006-07,North Gujarat,Mehsana,3800,83600,22,Calculated
+2006-07,North Gujarat,Sabarkantha,5035,125875,25,Calculated
+2006-07,North Gujarat,Gandhinagar,3615,101220,28,Calculated
+2006-07,Saurashtra-Kutch,Kutch,271,6775,25,Calculated
+2006-07,Saurashtra-Kutch,Surendranagar,0,0,0,N/A (zero area)
+2006-07,Saurashtra-Kutch,Rajkot,0,0,0,N/A (zero area)
+2006-07,Saurashtra-Kutch,Jamnagar,2150,26875,12.5,Calculated
+2006-07,Saurashtra-Kutch,Porbandar,0,0,0,N/A (zero area)
+2006-07,Saurashtra-Kutch,Junagadh,0,0,0,N/A (zero area)
+2006-07,Saurashtra-Kutch,Amreli,0,0,0,N/A (zero area)
+2006-07,Saurashtra-Kutch,Bhavnagar,0,0,0,N/A (zero area)
+2006-07,South Gujarat,Surat,0,0,0,N/A (zero area)
+2006-07,South Gujarat,Narmada,0,0,0,N/A (zero area)
+2006-07,South Gujarat,Bharuch,0,0,0,N/A (zero area)
+2006-07,South Gujarat,Dang,0,0,0,N/A (zero area)
+2006-07,South Gujarat,Navsari,0,0,0,N/A (zero area)
+2006-07,South Gujarat,Valsad,0,0,0,N/A (zero area)
+2007-08,Middle Gujarat,Ahmedabad,38,1026,27,Reported
+2007-08,Middle Gujarat,Anand,6600,2178,0.33,Reported
+2007-08,Middle Gujarat,Kheda,6586,19780,3,Reported
+2007-08,Middle Gujarat,Panchmahal,150,3300,22,Reported
+2007-08,Middle Gujarat,Dahod,25,500,20,Reported
+2007-08,Middle Gujarat,Vadodara,875,18375,21,Reported
+2007-08,North Gujarat,Banaskantha,33400,1002000,30,Reported
+2007-08,North Gujarat,Patan,242,5324,22,Reported
+2007-08,North Gujarat,Mehsana,5300,116600,22,Reported
+2007-08,North Gujarat,Sabarkantha,5300,159000,30,Reported
+2007-08,North Gujarat,Gandhinagar,4242,131502,31,Reported
+2007-08,Saurashtra-Kutch,Kutch,275,6875,25,Reported
+2007-08,Saurashtra-Kutch,Surendranagar,15,270,18,Reported
+2007-08,Saurashtra-Kutch,Rajkot,0,0,0,Reported
+2007-08,Saurashtra-Kutch,Jamnagar,2150,26875,12.5,Reported
+2007-08,Saurashtra-Kutch,Porbandar,0,0,0,Reported
+2007-08,Saurashtra-Kutch,Junagadh,0,0,0,Reported
+2007-08,Saurashtra-Kutch,Amreli,0,0,0,Reported
+2007-08,Saurashtra-Kutch,Bhavnagar,0,0,0,Reported
+2007-08,South Gujarat,Surat,0,0,0,Reported
+2007-08,South Gujarat,Narmada,15,300,20,Reported
+2007-08,South Gujarat,Bharuch,0,0,0,Reported
+2007-08,South Gujarat,Dang,0,0,0,Reported
+2007-08,South Gujarat,Navsari,0,0,0,Reported
+2007-08,South Gujarat,Valsad,0,0,0,Reported
+2007-08,South Gujarat,Tapi,0,0,0,Reported
+2008-09,Middle Gujarat,Ahmedabad,31,841,27.13,Calculated
+2008-09,Middle Gujarat,Anand,5800,145000,25,Calculated
+2008-09,Middle Gujarat,Kheda,6489,97335,15,Calculated
+2008-09,Middle Gujarat,Panchmahal,158,2370,15,Calculated
+2008-09,Middle Gujarat,Dahod,32,640,20,Calculated
+2008-09,Middle Gujarat,Vadodara,685,12330,18,Calculated
+2008-09,North Gujarat,Banaskantha,28000,784000,28,Calculated
+2008-09,North Gujarat,Patan,235,5289,22.51,Calculated
+2008-09,North Gujarat,Mehsana,5065,101300,20,Calculated
+2008-09,North Gujarat,Sabarkantha,5000,150000,30,Calculated
+2008-09,North Gujarat,Gandhinagar,4260,132060,31,Calculated
+2008-09,Saurashtra-Kutch,Kutch,260,4680,18,Calculated
+2008-09,Saurashtra-Kutch,Surendranagar,35,630,18,Calculated
+2008-09,Saurashtra-Kutch,Rajkot,0,0,0,N/A (zero area)
+2008-09,Saurashtra-Kutch,Jamnagar,900,12150,13.5,Calculated
+2008-09,Saurashtra-Kutch,Porbandar,0,0,0,N/A (zero area)
+2008-09,Saurashtra-Kutch,Junagadh,0,0,0,N/A (zero area)
+2008-09,Saurashtra-Kutch,Amreli,0,0,0,N/A (zero area)
+2008-09,Saurashtra-Kutch,Bhavnagar,0,0,0,N/A (zero area)
+2008-09,South Gujarat,Surat,0,0,0,N/A (zero area)
+2008-09,South Gujarat,Narmada,10,200,20,Calculated
+2008-09,South Gujarat,Bharuch,0,0,0,N/A (zero area)
+2008-09,South Gujarat,Dang,0,0,0,N/A (zero area)
+2008-09,South Gujarat,Navsari,0,0,0,N/A (zero area)
+2008-09,South Gujarat,Valsad,0,0,0,N/A (zero area)
+2008-09,South Gujarat,Tapi,0,0,0,N/A (zero area)
+2009-10,Middle Gujarat,Ahmedabad,33,924,28,Calculated
+2009-10,Middle Gujarat,Anand,6000,198000,33,Calculated
+2009-10,Middle Gujarat,Kheda,6813,136260,20,Calculated
+2009-10,Middle Gujarat,Panchmahal,200,3000,15,Calculated
+2009-10,Middle Gujarat,Dahod,30,600,20,Calculated
+2009-10,Middle Gujarat,Vadodara,664,13280,20,Calculated
+2009-10,North Gujarat,Banaskantha,28500,826500,29,Calculated
+2009-10,North Gujarat,Patan,560,12740,22.75,Calculated
+2009-10,North Gujarat,Mehsana,5290,107948,20.41,Calculated
+2009-10,North Gujarat,Sabarkantha,6300,189630,30.1,Calculated
+2009-10,North Gujarat,Gandhinagar,4407,145431,33,Calculated
+2009-10,Saurashtra-Kutch,Kutch,266,5053,19,Calculated
+2009-10,Saurashtra-Kutch,Surendranagar,60,1080,18,Calculated
+2009-10,Saurashtra-Kutch,Rajkot,0,0,0,N/A (zero area)
+2009-10,Saurashtra-Kutch,Jamnagar,950,16435,17.3,Calculated
+2009-10,Saurashtra-Kutch,Porbandar,0,0,0,N/A (zero area)
+2009-10,Saurashtra-Kutch,Junagadh,0,0,0,N/A (zero area)
+2009-10,Saurashtra-Kutch,Amreli,0,0,0,N/A (zero area)
+2009-10,Saurashtra-Kutch,Bhavnagar,0,0,0,N/A (zero area)
+2009-10,South Gujarat,Surat,0,0,0,N/A (zero area)
+2009-10,South Gujarat,Narmada,6,126,21,Calculated
+2009-10,South Gujarat,Bharuch,0,0,0,N/A (zero area)
+2009-10,South Gujarat,Dang,0,0,0,N/A (zero area)
+2009-10,South Gujarat,Navsari,0,0,0,N/A (zero area)
+2009-10,South Gujarat,Valsad,0,0,0,N/A (zero area)
+2009-10,South Gujarat,Tapi,0,0,0,N/A (zero area)
+2010-11,Middle Gujarat,Ahmedabad,40,1121,28.03,Reported
+2010-11,Middle Gujarat,Anand,6050,193600,32,Reported
+2010-11,Middle Gujarat,Kheda,7296,153216,21,Reported
+2010-11,Middle Gujarat,Panchmahal,240,3600,15,Reported
+2010-11,Middle Gujarat,Dahod,36,738,20.5,Reported
+2010-11,Middle Gujarat,Vadodara,750,16500,22,Reported
+2010-11,North Gujarat,Banaskantha,29800,923800,31,Reported
+2010-11,North Gujarat,Patan,700,16100,23,Reported
+2010-11,North Gujarat,Mehsana,5500,115500,21,Reported
+2010-11,North Gujarat,Sabarkantha,8785,272335,31,Reported
+2010-11,North Gujarat,Gandhinagar,4765,160819,33.75,Reported
+2010-11,Saurashtra-Kutch,Kutch,270,5130,19,Reported
+2010-11,Saurashtra-Kutch,Surendranagar,65,1300,20,Reported
+2010-11,Saurashtra-Kutch,Rajkot,0,0,0,Reported
+2010-11,Saurashtra-Kutch,Jamnagar,1000,17600,17.6,Reported
+2010-11,Saurashtra-Kutch,Porbandar,0,0,0,Reported
+2010-11,Saurashtra-Kutch,Junagadh,0,0,0,Reported
+2010-11,Saurashtra-Kutch,Amreli,0,0,0,Reported
+2010-11,Saurashtra-Kutch,Bhavnagar,0,0,0,Reported
+2010-11,South Gujarat,Surat,0,0,0,Reported
+2010-11,South Gujarat,Narmada,9,198,22,Reported
+2010-11,South Gujarat,Bharuch,0,0,0,Reported
+2010-11,South Gujarat,Dang,0,0,0,Reported
+2010-11,South Gujarat,Navsari,0,0,0,Reported
+2010-11,South Gujarat,Valsad,0,0,0,Reported
+2010-11,South Gujarat,Tapi,10,250,25,Reported
+2011-12,Middle Gujarat,Ahmedabad,0,0,0,Reported
+2011-12,Middle Gujarat,Anand,4100,131610,32.1,Reported
+2011-12,Middle Gujarat,Kheda,4000,84400,21.1,Reported
+2011-12,Middle Gujarat,Panchmahal,0,0,0,Reported
+2011-12,Middle Gujarat,Dahod,0,0,0,Reported
+2011-12,Middle Gujarat,Vadodara,0,0,0,Reported
+2011-12,North Gujarat,Banaskantha,40600,1260630,31.05,Reported
+2011-12,North Gujarat,Patan,800,18432,23.04,Reported
+2011-12,North Gujarat,Mehsana,7100,149455,21.05,Reported
+2011-12,North Gujarat,Sabarkantha,14900,462496,31.04,Reported
+2011-12,North Gujarat,Gandhinagar,7800,263406,33.77,Reported
+2011-12,Saurashtra-Kutch,Kutch,300,5715,19.05,Reported
+2011-12,Saurashtra-Kutch,Surendranagar,0,0,0,Reported
+2011-12,Saurashtra-Kutch,Rajkot,0,0,0,Reported
+2011-12,Saurashtra-Kutch,Jamnagar,1100,19393,17.63,Reported
+2011-12,Saurashtra-Kutch,Porbandar,0,0,0,Reported
+2011-12,Saurashtra-Kutch,Junagadh,0,0,0,Reported
+2011-12,Saurashtra-Kutch,Amreli,0,0,0,N/A (zero area)
+2011-12,Saurashtra-Kutch,Bhavnagar,0,0,0,Reported
+2011-12,South Gujarat,Surat,0,0,0,Reported
+2011-12,South Gujarat,Narmada,0,0,0,Reported
+2011-12,South Gujarat,Bharuch,0,0,0,Reported
+2011-12,South Gujarat,Dang,0,0,0,Reported
+2011-12,South Gujarat,Navsari,0,0,0,Reported
+2011-12,South Gujarat,Valsad,0,0,0,Reported
+2011-12,South Gujarat,Tapi,0,0,0,Reported
+2012-13,Middle Gujarat,Ahmedabad,0,0,0,Reported
+2012-13,Middle Gujarat,Anand,5015,161483,32.2,Reported
+2012-13,Middle Gujarat,Kheda,4570,93870,20.54,Reported
+2012-13,Middle Gujarat,Panchmahal,300,4680,15.6,Reported
+2012-13,Middle Gujarat,Dahod,0,0,0,Reported
+2012-13,Middle Gujarat,Vadodara,280,6244,22.3,Reported
+2012-13,North Gujarat,Banaskantha,43273,1381373,31.92,Reported
+2012-13,North Gujarat,Patan,827,19054,23.04,Reported
+2012-13,North Gujarat,Mehsana,7430,179063,24.1,Reported
+2012-13,North Gujarat,Sabarkantha,11852,386800,32.64,Reported
+2012-13,North Gujarat,Gandhinagar,7280,260406,35.77,Reported
+2012-13,Saurashtra-Kutch,Kutch,85,1502,17.67,Reported
+2012-13,Saurashtra-Kutch,Surendranagar,110,740,6.73,Reported
+2012-13,Saurashtra-Kutch,Rajkot,0,0,0,Reported
+2012-13,Saurashtra-Kutch,Jamnagar,230,4010,17.43,Reported
+2012-13,Saurashtra-Kutch,Porbandar,0,0,0,Reported
+2012-13,Saurashtra-Kutch,Junagadh,0,0,0,Reported
+2012-13,Saurashtra-Kutch,Amreli,0,0,0,Reported
+2012-13,Saurashtra-Kutch,Bhavnagar,0,0,0,Reported
+2012-13,South Gujarat,Surat,0,0,0,Reported
+2012-13,South Gujarat,Narmada,0,0,0,Reported
+2012-13,South Gujarat,Bharuch,0,0,0,Reported
+2012-13,South Gujarat,Dang,0,0,0,Reported
+2012-13,South Gujarat,Navsari,0,0,0,Reported
+2012-13,South Gujarat,Valsad,0,0,0,Reported
+2012-13,South Gujarat,Tapi,20,500,25,Reported
+2013-14,Middle Gujarat,Ahmedabad,0,0,0,Reported
+2013-14,Middle Gujarat,Anand,3600,115902,32.19,Reported
+2013-14,Middle Gujarat,Kheda,3875,82159,21.2,Reported
+2013-14,Middle Gujarat,Panchmahal,0,0,0,Reported
+2013-14,Middle Gujarat,Dahod,0,0,0,Reported
+2013-14,Middle Gujarat,Vadodara,0,0,0,Reported
+2013-14,North Gujarat,Banaskantha,33500,1072000,32,Reported
+2013-14,North Gujarat,Patan,580,13363,23.04,Reported
+2013-14,North Gujarat,Mehsana,6300,152145,24.15,Reported
+2013-14,North Gujarat,Sabarkantha,16880,551961,32.7,Reported
+2013-14,North Gujarat,Gandhinagar,8100,295650,36.5,Reported
+2013-14,Saurashtra-Kutch,Kutch,111,1961,17.67,Reported
+2013-14,Saurashtra-Kutch,Surendranagar,25,500,20,Reported
+2013-14,Saurashtra-Kutch,Rajkot,0,0,0,Reported
+2013-14,Saurashtra-Kutch,Jamnagar,667,9309,13.96,Reported
+2013-14,Saurashtra-Kutch,Porbandar,0,0,0,Reported
+2013-14,Saurashtra-Kutch,Junagadh,0,0,0,Reported
+2013-14,Saurashtra-Kutch,Amreli,0,0,0,Reported
+2013-14,Saurashtra-Kutch,Bhavnagar,0,0,0,Reported
+2013-14,South Gujarat,Surat,0,0,0,Reported
+2013-14,South Gujarat,Narmada,0,0,0,Reported
+2013-14,South Gujarat,Bharuch,0,0,0,Reported
+2013-14,South Gujarat,Dang,0,0,0,Reported
+2013-14,South Gujarat,Navsari,0,0,0,Reported
+2013-14,South Gujarat,Valsad,0,0,0,Reported
+2013-14,South Gujarat,Tapi,0,0,0,Reported
+2014-15,Middle Gujarat,Ahmedabad,0,0,0,N/A (zero area)
+2014-15,Middle Gujarat,Anand,3400,108970,32.05,Calculated
+2014-15,Middle Gujarat,Kheda,4400,92708,21.07,Calculated
+2014-15,Middle Gujarat,Panchmahal,300,5958,19.86,Calculated
+2014-15,Middle Gujarat,Dahod,0,0,0,N/A (zero area)
+2014-15,Middle Gujarat,Vadodara,200,3700,18.5,Calculated
+2014-15,North Gujarat,Banaskantha,52800,1710720,32.4,Calculated
+2014-15,North Gujarat,Patan,900,19989,22.21,Calculated
+2014-15,North Gujarat,Mehsana,6600,164670,24.95,Calculated
+2014-15,North Gujarat,Sabarkantha,21400,702134,32.81,Calculated
+2014-15,North Gujarat,Gandhinagar,7500,274500,36.6,Calculated
+2014-15,Saurashtra-Kutch,Kutch,100,1825,18.25,Calculated
+2014-15,Saurashtra-Kutch,Surendranagar,100,2100,21,Calculated
+2014-15,Saurashtra-Kutch,Rajkot,400,8652,21.63,Calculated
+2014-15,Saurashtra-Kutch,Jamnagar,100,1465,14.65,Calculated
+2014-15,Saurashtra-Kutch,Porbandar,0,0,0,N/A (zero area)
+2014-15,Saurashtra-Kutch,Junagadh,0,0,0,N/A (zero area)
+2014-15,Saurashtra-Kutch,Amreli,0,0,0,N/A (zero area)
+2014-15,Saurashtra-Kutch,Bhavnagar,0,0,0,N/A (zero area)
+2014-15,South Gujarat,Surat,0,0,0,N/A (zero area)
+2014-15,South Gujarat,Narmada,0,0,0,N/A (zero area)
+2014-15,South Gujarat,Bharuch,0,0,0,N/A (zero area)
+2014-15,South Gujarat,Dang,0,0,0,N/A (zero area)
+2014-15,South Gujarat,Navsari,0,0,0,N/A (zero area)
+2014-15,South Gujarat,Valsad,0,0,0,N/A (zero area)
+2014-15,South Gujarat,Tapi,0,0,0,N/A (zero area)
+2015-16,Middle Gujarat,Ahmedabad,0,0,0,N/A (zero area)
+2015-16,Middle Gujarat,Anand,3300,106425,32.25,Calculated
+2015-16,Middle Gujarat,Kheda,6000,150000,25,Calculated
+2015-16,Middle Gujarat,Panchmahal,0,0,0,N/A (zero area)
+2015-16,Middle Gujarat,Dahod,0,0,0,N/A (zero area)
+2015-16,Middle Gujarat,Vadodara,200,3800,19,Calculated
+2015-16,Middle Gujarat,Mahisagar,100,2000,20,Calculated
+2015-16,Middle Gujarat,Chhota Udepur,0,0,0,N/A (zero area)
+2015-16,North Gujarat,Banaskantha,55700,1804680,32.4,Calculated
+2015-16,North Gujarat,Patan,900,20095,22.33,Calculated
+2015-16,North Gujarat,Mehsana,6200,161200,26,Calculated
+2015-16,North Gujarat,Sabarkantha,11300,372900,33,Calculated
+2015-16,North Gujarat,Gandhinagar,6700,221100,33,Calculated
+2015-16,North Gujarat,Aravalli,21900,705180,32.2,Calculated
+2015-16,Saurashtra-Kutch,Kutch,100,2000,20,Calculated
+2015-16,Saurashtra-Kutch,Surendranagar,0,0,0,N/A (zero area)
+2015-16,Saurashtra-Kutch,Rajkot,0,0,0,N/A (zero area)
+2015-16,Saurashtra-Kutch,Jamnagar,0,0,0,N/A (zero area)
+2015-16,Saurashtra-Kutch,Porbandar,0,0,0,N/A (zero area)
+2015-16,Saurashtra-Kutch,Junagadh,0,0,0,N/A (zero area)
+2015-16,Saurashtra-Kutch,Amreli,0,0,0,N/A (zero area)
+2015-16,Saurashtra-Kutch,Bhavnagar,0,0,0,N/A (zero area)
+2015-16,Saurashtra-Kutch,Morbi,0,0,0,N/A (zero area)
+2015-16,Saurashtra-Kutch,Botad,0,0,0,N/A (zero area)
+2015-16,Saurashtra-Kutch,Gir Somnath,0,0,0,N/A (zero area)
+2015-16,Saurashtra-Kutch,Devbhumi Dwarka,0,0,0,N/A (zero area)
+2015-16,South Gujarat,Surat,0,0,0,N/A (zero area)
+2015-16,South Gujarat,Narmada,0,0,0,N/A (zero area)
+2015-16,South Gujarat,Bharuch,0,0,0,N/A (zero area)
+2015-16,South Gujarat,Dang,0,0,0,N/A (zero area)
+2015-16,South Gujarat,Navsari,0,0,0,N/A (zero area)
+2015-16,South Gujarat,Valsad,0,0,0,N/A (zero area)
+2015-16,South Gujarat,Tapi,0,0,0,N/A (zero area)
+2016-17,Middle Gujarat,Ahmedabad,100,2563,25.63,Calculated
+2016-17,Middle Gujarat,Anand,2584,80698.32,31.23,Calculated
+2016-17,Middle Gujarat,Kheda,6100,152515,25,Calculated
+2016-17,Middle Gujarat,Panchmahal,100,2125,21.25,Calculated
+2016-17,Middle Gujarat,Dahod,0,0,0,N/A (zero area)
+2016-17,Middle Gujarat,Vadodara,100,2100,21,Calculated
+2016-17,Middle Gujarat,Mahisagar,200,4125,20.62,Calculated
+2016-17,Middle Gujarat,Chhota Udepur,0,0,0,N/A (zero area)
+2016-17,North Gujarat,Banaskantha,66170,2084355,31.5,Calculated
+2016-17,North Gujarat,Patan,1100,25751,23.41,Calculated
+2016-17,North Gujarat,Mehsana,7867,234043.25,29.75,Calculated
+2016-17,North Gujarat,Sabarkantha,7900,253590,32.1,Calculated
+2016-17,North Gujarat,Gandhinagar,8200,263220,32.1,Calculated
+2016-17,North Gujarat,Aravalli,21900,687660,31.4,Calculated
+2016-17,Saurashtra-Kutch,Kutch,107,2270.54,21.22,Calculated
+2016-17,Saurashtra-Kutch,Surendranagar,0,0,0,N/A (zero area)
+2016-17,Saurashtra-Kutch,Rajkot,0,0,0,N/A (zero area)
+2016-17,Saurashtra-Kutch,Jamnagar,0,0,0,N/A (zero area)
+2016-17,Saurashtra-Kutch,Porbandar,0,0,0,N/A (zero area)
+2016-17,Saurashtra-Kutch,Junagadh,0,0,0,N/A (zero area)
+2016-17,Saurashtra-Kutch,Amreli,0,0,0,N/A (zero area)
+2016-17,Saurashtra-Kutch,Bhavnagar,0,0,0,N/A (zero area)
+2016-17,Saurashtra-Kutch,Morbi,0,0,0,N/A (zero area)
+2016-17,Saurashtra-Kutch,Botad,0,0,0,N/A (zero area)
+2016-17,Saurashtra-Kutch,Gir Somnath,0,0,0,N/A (zero area)
+2016-17,Saurashtra-Kutch,Devbhumi Dwarka,100,2800,28,Calculated
+2016-17,South Gujarat,Surat,0,0,0,N/A (zero area)
+2016-17,South Gujarat,Narmada,0,0,0,N/A (zero area)
+2016-17,South Gujarat,Bharuch,0,0,0,N/A (zero area)
+2016-17,South Gujarat,Dang,0,0,0,N/A (zero area)
+2016-17,South Gujarat,Navsari,0,0,0,N/A (zero area)
+2016-17,South Gujarat,Valsad,0,0,0,N/A (zero area)
+2016-17,South Gujarat,Tapi,0,0,0,N/A (zero area)
+2017-18,Middle Gujarat,Ahmedabad,50,1281,25.62,Reported
+2017-18,Middle Gujarat,Anand,2631,82166,31.23,Reported
+2017-18,Middle Gujarat,Kheda,6001,150025,25,Reported
+2017-18,Middle Gujarat,Panchmahal,65,1378,21.2,Reported
+2017-18,Middle Gujarat,Dahod,0,0,0,Reported
+2017-18,Middle Gujarat,Vadodara,334,8183,24.5,Reported
+2017-18,Middle Gujarat,Mahisagar,106,2187,20.63,Reported
+2017-18,Middle Gujarat,Chhota Udepur,0,0,0,Reported
+2017-18,North Gujarat,Banaskantha,78132,2187696,28,Reported
+2017-18,North Gujarat,Patan,767,16878,22.01,Reported
+2017-18,North Gujarat,Mehsana,7611,226428,29.75,Reported
+2017-18,North Gujarat,Sabarkantha,8230,255953,31.1,Reported
+2017-18,North Gujarat,Gandhinagar,7238,180950,25,Reported
+2017-18,North Gujarat,Aravalli,21935,689198,31.42,Reported
+2017-18,Saurashtra-Kutch,Kutch,117,2483,21.22,Reported
+2017-18,Saurashtra-Kutch,Surendranagar,0,0,0,Reported
+2017-18,Saurashtra-Kutch,Rajkot,0,0,0,Reported
+2017-18,Saurashtra-Kutch,Jamnagar,20,600,30,Reported
+2017-18,Saurashtra-Kutch,Porbandar,0,0,0,Reported
+2017-18,Saurashtra-Kutch,Junagadh,0,0,0,Reported
+2017-18,Saurashtra-Kutch,Amreli,0,0,0,Reported
+2017-18,Saurashtra-Kutch,Bhavnagar,0,0,0,Reported
+2017-18,Saurashtra-Kutch,Morbi,0,0,0,Reported
+2017-18,Saurashtra-Kutch,Botad,0,0,0,Reported
+2017-18,Saurashtra-Kutch,Gir Somnath,0,0,0,Reported
+2017-18,Saurashtra-Kutch,Devbhumi Dwarka,55,1540,28,Reported
+2017-18,South Gujarat,Surat,0,0,0,Reported
+2017-18,South Gujarat,Narmada,0,0,0,Reported
+2017-18,South Gujarat,Bharuch,0,0,0,Reported
+2017-18,South Gujarat,Dang,0,0,0,Reported
+2017-18,South Gujarat,Navsari,0,0,0,Reported
+2017-18,South Gujarat,Valsad,0,0,0,Reported
+2017-18,South Gujarat,Tapi,0,0,0,Reported
+2018-19,Middle Gujarat,Ahmedabad,52,1331,25.6,Calculated
+2018-19,Middle Gujarat,Anand,1468,45875,31.25,Calculated
+2018-19,Middle Gujarat,Kheda,5268,131437,24.95,Calculated
+2018-19,Middle Gujarat,Panchmahal,15,323,21.53,Calculated
+2018-19,Middle Gujarat,Dahod,0,0,0,N/A (zero area)
+2018-19,Middle Gujarat,Vadodara,187,4582,24.5,Calculated
+2018-19,Middle Gujarat,Mahisagar,86,1775,20.64,Calculated
+2018-19,Middle Gujarat,Chhota Udepur,0,0,0,N/A (zero area)
+2018-19,North Gujarat,Banaskantha,68143,2023847,29.7,Calculated
+2018-19,North Gujarat,Patan,767,18247,23.79,Calculated
+2018-19,North Gujarat,Mehsana,7732,228094,29.5,Calculated
+2018-19,North Gujarat,Sabarkantha,9045,299028,33.06,Calculated
+2018-19,North Gujarat,Gandhinagar,9613,240325,25,Calculated
+2018-19,North Gujarat,Aravalli,22145,709747,32.05,Calculated
+2018-19,Saurashtra-Kutch,Kutch,60,1273,21.22,Calculated
+2018-19,Saurashtra-Kutch,Surendranagar,0,0,0,N/A (zero area)
+2018-19,Saurashtra-Kutch,Rajkot,0,0,0,N/A (zero area)
+2018-19,Saurashtra-Kutch,Jamnagar,10,270,27,Calculated
+2018-19,Saurashtra-Kutch,Porbandar,0,0,0,N/A (zero area)
+2018-19,Saurashtra-Kutch,Junagadh,0,0,0,N/A (zero area)
+2018-19,Saurashtra-Kutch,Amreli,0,0,0,N/A (zero area)
+2018-19,Saurashtra-Kutch,Bhavnagar,0,0,0,N/A (zero area)
+2018-19,Saurashtra-Kutch,Morbi,0,0,0,N/A (zero area)
+2018-19,Saurashtra-Kutch,Botad,0,0,0,N/A (zero area)
+2018-19,Saurashtra-Kutch,Gir Somnath,0,0,0,N/A (zero area)
+2018-19,Saurashtra-Kutch,Devbhumi Dwarka,55,1540,28,Calculated
+2018-19,South Gujarat,Surat,0,0,0,N/A (zero area)
+2018-19,South Gujarat,Narmada,0,0,0,N/A (zero area)
+2018-19,South Gujarat,Bharuch,0,0,0,N/A (zero area)
+2018-19,South Gujarat,Dang,0,0,0,N/A (zero area)
+2018-19,South Gujarat,Navsari,0,0,0,N/A (zero area)
+2018-19,South Gujarat,Valsad,0,0,0,N/A (zero area)
+2018-19,South Gujarat,Tapi,0,0,0,N/A (zero area)
+2019-20,Middle Gujarat,Ahmedabad,70,1918,27.4,Calculated
+2019-20,Middle Gujarat,Anand,1475,46463,31.5,Calculated
+2019-20,Middle Gujarat,Kheda,5060,139049,27.48,Calculated
+2019-20,Middle Gujarat,Panchmahal,45,956,21.24,Calculated
+2019-20,Middle Gujarat,Dahod,1,30,30,Calculated
+2019-20,Middle Gujarat,Vadodara,160,3920,24.5,Calculated
+2019-20,Middle Gujarat,Mahisagar,90,1901,21.12,Calculated
+2019-20,Middle Gujarat,Chhota Udepur,0,0,0,N/A (zero area)
+2019-20,North Gujarat,Banaskantha,62349,1858000,29.8,Calculated
+2019-20,North Gujarat,Patan,627,14860,23.7,Calculated
+2019-20,North Gujarat,Mehsana,7321,215970,29.5,Calculated
+2019-20,North Gujarat,Sabarkantha,12195,404142,33.14,Calculated
+2019-20,North Gujarat,Gandhinagar,9662,285029,29.5,Calculated
+2019-20,North Gujarat,Aravalli,22495,731088,32.5,Calculated
+2019-20,Saurashtra-Kutch,Kutch,8,170,21.25,Calculated
+2019-20,Saurashtra-Kutch,Surendranagar,0,0,0,N/A (zero area)
+2019-20,Saurashtra-Kutch,Rajkot,0,0,0,N/A (zero area)
+2019-20,Saurashtra-Kutch,Jamnagar,40,1080,27,Calculated
+2019-20,Saurashtra-Kutch,Porbandar,0,0,0,N/A (zero area)
+2019-20,Saurashtra-Kutch,Junagadh,0,0,0,N/A (zero area)
+2019-20,Saurashtra-Kutch,Amreli,0,0,0,N/A (zero area)
+2019-20,Saurashtra-Kutch,Bhavnagar,0,0,0,N/A (zero area)
+2019-20,Saurashtra-Kutch,Morbi,0,0,0,N/A (zero area)
+2019-20,Saurashtra-Kutch,Botad,0,0,0,N/A (zero area)
+2019-20,Saurashtra-Kutch,Gir Somnath,0,0,0,N/A (zero area)
+2019-20,Saurashtra-Kutch,Devbhumi Dwarka,55,1540,28,Calculated
+2019-20,South Gujarat,Surat,0,0,0,N/A (zero area)
+2019-20,South Gujarat,Narmada,0,0,0,N/A (zero area)
+2019-20,South Gujarat,Bharuch,0,0,0,N/A (zero area)
+2019-20,South Gujarat,Dang,0,0,0,N/A (zero area)
+2019-20,South Gujarat,Navsari,0,0,0,N/A (zero area)
+2019-20,South Gujarat,Valsad,0,0,0,N/A (zero area)
+2019-20,South Gujarat,Tapi,0,0,0,N/A (zero area)
+2020-21,Middle Gujarat,Ahmedabad,130,3567,27.44,Calculated
+2020-21,Middle Gujarat,Anand,1676,52794,31.5,Calculated
+2020-21,Middle Gujarat,Kheda,4200,115416,27.48,Calculated
+2020-21,Middle Gujarat,Panchmahal,64,1363,21.3,Calculated
+2020-21,Middle Gujarat,Dahod,1,30,30,Calculated
+2020-21,Middle Gujarat,Vadodara,188,4606,24.5,Calculated
+2020-21,Middle Gujarat,Mahisagar,206,4326,21,Calculated
+2020-21,Middle Gujarat,Chhota Udepur,0,0,0,N/A (zero area)
+2020-21,North Gujarat,Banaskantha,59903,1797090,30,Calculated
+2020-21,North Gujarat,Patan,830,21995,26.5,Calculated
+2020-21,North Gujarat,Mehsana,8451,245079,29,Calculated
+2020-21,North Gujarat,Sabarkantha,18580,617344,33.23,Calculated
+2020-21,North Gujarat,Gandhinagar,12134,345819,28.5,Calculated
+2020-21,North Gujarat,Aravalli,19247,680189,35.34,Calculated
+2020-21,Saurashtra-Kutch,Kutch,0,0,0,N/A (zero area)
+2020-21,Saurashtra-Kutch,Surendranagar,0,0,0,N/A (zero area)
+2020-21,Saurashtra-Kutch,Rajkot,0,0,0,N/A (zero area)
+2020-21,Saurashtra-Kutch,Jamnagar,53,1431,27,Calculated
+2020-21,Saurashtra-Kutch,Porbandar,0,0,0,N/A (zero area)
+2020-21,Saurashtra-Kutch,Junagadh,0,0,0,N/A (zero area)
+2020-21,Saurashtra-Kutch,Amreli,0,0,0,N/A (zero area)
+2020-21,Saurashtra-Kutch,Bhavnagar,0,0,0,N/A (zero area)
+2020-21,Saurashtra-Kutch,Morbi,0,0,0,N/A (zero area)
+2020-21,Saurashtra-Kutch,Botad,0,0,0,N/A (zero area)
+2020-21,Saurashtra-Kutch,Gir Somnath,0,0,0,N/A (zero area)
+2020-21,Saurashtra-Kutch,Devbhumi Dwarka,200,5520,27.6,Calculated
+2020-21,South Gujarat,Surat,0,0,0,N/A (zero area)
+2020-21,South Gujarat,Narmada,0,0,0,N/A (zero area)
+2020-21,South Gujarat,Bharuch,0,0,0,N/A (zero area)
+2020-21,South Gujarat,Dang,0,0,0,N/A (zero area)
+2020-21,South Gujarat,Navsari,0,0,0,N/A (zero area)
+2020-21,South Gujarat,Valsad,0,0,0,N/A (zero area)
+2020-21,South Gujarat,Tapi,0,0,0,N/A (zero area)
+2021-22,Middle Gujarat,Ahmedabad,140,3821,27.29,Reported
+2021-22,Middle Gujarat,Anand,1440,45504,31.6,Reported
+2021-22,Middle Gujarat,Kheda,4784,115438,24.13,Reported
+2021-22,Middle Gujarat,Panchmahal,65,1385,21.3,Reported
+2021-22,Middle Gujarat,Dahod,0,0,0,Reported
+2021-22,Middle Gujarat,Vadodara,195,4787,24.55,Reported
+2021-22,Middle Gujarat,Mahisagar,148,3185,21.52,Reported
+2021-22,Middle Gujarat,Chhota Udepur,0,0,0,Reported
+2021-22,North Gujarat,Banaskantha,58902,1708158,29,Reported
+2021-22,North Gujarat,Patan,851,22552,26.5,Reported
+2021-22,North Gujarat,Mehsana,8569,248501,29,Reported
+2021-22,North Gujarat,Sabarkantha,22587,771798,34.17,Reported
+2021-22,North Gujarat,Gandhinagar,12700,355600,28,Reported
+2021-22,North Gujarat,Aravalli,18213,637455,35,Reported
+2021-22,North Gujarat,Kutch,0,0,0,Reported
+2021-22,Saurashtra-Kutch,Surendranagar,0,0,0,Reported
+2021-22,Saurashtra-Kutch,Rajkot,0,0,0,Reported
+2021-22,Saurashtra-Kutch,Jamnagar,40,1080,27,Reported
+2021-22,Saurashtra-Kutch,Porbandar,0,0,0,Reported
+2021-22,Saurashtra-Kutch,Junagadh,0,0,0,Reported
+2021-22,Saurashtra-Kutch,Amreli,0,0,0,Reported
+2021-22,Saurashtra-Kutch,Bhavnagar,0,0,0,Reported
+2021-22,Saurashtra-Kutch,Morbi,0,0,0,Reported
+2021-22,Saurashtra-Kutch,Botad,0,0,0,Reported
+2021-22,Saurashtra-Kutch,Gir Somnath,0,0,0,Reported
+2021-22,Saurashtra-Kutch,Devbhumi Dwarka,100,2700,27,Reported
+2021-22,South Gujarat,Surat,0,0,0,Reported
+2021-22,South Gujarat,Narmada,0,0,0,Reported
+2021-22,South Gujarat,Bharuch,0,0,0,Reported
+2021-22,South Gujarat,Dang,0,0,0,Reported
+2021-22,South Gujarat,Navsari,0,0,0,Reported
+2021-22,South Gujarat,Valsad,0,0,0,Reported
+2021-22,South Gujarat,Tapi,0,0,0,Reported
+2022-23,Middle Gujarat,Ahmedabad,148,4047,27.34,Reported
+2022-23,Middle Gujarat,Anand,1315,37017,28.15,Reported
+2022-23,Middle Gujarat,Kheda,4926,114776,23.3,Reported
+2022-23,Middle Gujarat,Panchmahal,10,250,25,Reported
+2022-23,Middle Gujarat,Dahod,0,0,0,Reported
+2022-23,Middle Gujarat,Vadodara,161,3953,24.55,Reported
+2022-23,Middle Gujarat,Mahisagar,136,3132,23.03,Reported
+2022-23,Middle Gujarat,Chhota Udepur,0,0,0,Reported
+2022-23,North Gujarat,Banaskantha,53548,1579666,29.5,Reported
+2022-23,North Gujarat,Patan,1035,28980,28,Reported
+2022-23,North Gujarat,Mehsana,10572,317000,29.98,Reported
+2022-23,North Gujarat,Sabarkantha,24661,848316,34.4,Reported
+2022-23,North Gujarat,Gandhinagar,15574,359016,23.05,Reported
+2022-23,North Gujarat,Aravalli,19238,682949,35.5,Reported
+2022-23,North Gujarat,Kutch,0,0,0,Reported
+2022-23,Saurashtra-Kutch,Surendranagar,0,0,0,Reported
+2022-23,Saurashtra-Kutch,Rajkot,0,0,0,Reported
+2022-23,Saurashtra-Kutch,Jamnagar,38,950,25,Reported
+2022-23,Saurashtra-Kutch,Porbandar,0,0,0,Reported
+2022-23,Saurashtra-Kutch,Junagadh,0,0,0,Reported
+2022-23,Saurashtra-Kutch,Amreli,0,0,0,Reported
+2022-23,Saurashtra-Kutch,Bhavnagar,0,0,0,Reported
+2022-23,Saurashtra-Kutch,Morbi,0,0,0,Reported
+2022-23,Saurashtra-Kutch,Botad,0,0,0,Reported
+2022-23,Saurashtra-Kutch,Gir Somnath,0,0,0,Reported
+2022-23,Saurashtra-Kutch,Devbhumi Dwarka,141,3807,27,Reported
+2022-23,South Gujarat,Surat,0,0,0,Reported
+2022-23,South Gujarat,Narmada,0,0,0,Reported
+2022-23,South Gujarat,Bharuch,0,0,0,Reported
+2022-23,South Gujarat,Dang,0,0,0,Reported
+2022-23,South Gujarat,Navsari,0,0,0,Reported
+2022-23,South Gujarat,Valsad,0,0,0,Reported
+2022-23,South Gujarat,Tapi,0,0,0,Reported
+2023-24,Middle Gujarat,Ahmedabad,100,2550,25.5,Reported
+2023-24,Middle Gujarat,Anand,1328,37649,28.35,Reported
+2023-24,Middle Gujarat,Kheda,4963,135490,27.3,Reported
+2023-24,Middle Gujarat,Panchmahal,10,250,25,Reported
+2023-24,Middle Gujarat,Dahod,0,0,0,Reported
+2023-24,Middle Gujarat,Vadodara,300,7365,24.55,Reported
+2023-24,Middle Gujarat,Mahisagar,200,4610,23.05,Reported
+2023-24,Middle Gujarat,Chhota Udepur,0,0,0,Reported
+2023-24,North Gujarat,Banaskantha,52089,1562670,30,Reported
+2023-24,North Gujarat,Patan,1045,30984,29.65,Reported
+2023-24,North Gujarat,Mehsana,10430,302470,29,Reported
+2023-24,North Gujarat,Sabarkantha,26923,918613,34.12,Reported
+2023-24,North Gujarat,Gandhinagar,17083,393763,23.05,Reported
+2023-24,North Gujarat,Aravalli,20257,717098,35.4,Reported
+2023-24,North Gujarat,Kutch,4,112,28,Reported
+2023-24,Saurashtra-Kutch,Surendranagar,0,0,0,Reported
+2023-24,Saurashtra-Kutch,Rajkot,0,0,0,Reported
+2023-24,Saurashtra-Kutch,Jamnagar,26,650,25,Reported
+2023-24,Saurashtra-Kutch,Porbandar,0,0,0,Reported
+2023-24,Saurashtra-Kutch,Junagadh,0,0,0,Reported
+2023-24,Saurashtra-Kutch,Amreli,0,0,0,Reported
+2023-24,Saurashtra-Kutch,Bhavnagar,0,0,0,Reported
+2023-24,Saurashtra-Kutch,Morbi,0,0,0,Reported
+2023-24,Saurashtra-Kutch,Botad,0,0,0,Reported
+2023-24,Saurashtra-Kutch,Gir Somnath,0,0,0,Reported
+2023-24,Saurashtra-Kutch,Devbhumi Dwarka,100,2700,27,Reported
+2023-24,South Gujarat,Surat,0,0,0,Reported
+2023-24,South Gujarat,Narmada,0,0,0,Reported
+2023-24,South Gujarat,Bharuch,0,0,0,Reported
+2023-24,South Gujarat,Dang,0,0,0,Reported
+2023-24,South Gujarat,Navsari,0,0,0,Reported
+2023-24,South Gujarat,Valsad,0,0,0,Reported
+2023-24,South Gujarat,Tapi,0,0,0,Reported
+2024-25,Middle Gujarat,Ahmedabad,190,5510,29,Reported
+2024-25,Middle Gujarat,Anand,1206,30585,25.36,Reported
+2024-25,Middle Gujarat,Kheda,4592,124635,27.14,Reported
+2024-25,Middle Gujarat,Panchmahal,9,225,25,Reported
+2024-25,Middle Gujarat,Dahod,0,0,0,Reported
+2024-25,Middle Gujarat,Vadodara,487,12031,24.7,Reported
+2024-25,Middle Gujarat,Mahisagar,177,4186,23.65,Reported
+2024-25,Middle Gujarat,Chhota Udepur,0,0,0,Reported
+2024-25,North Gujarat,Banaskantha,61016,1799652,29.49,Reported
+2024-25,North Gujarat,Patan,1670,50535,30.26,Reported
+2024-25,North Gujarat,Mehsana,10084,292429,29,Reported
+2024-25,North Gujarat,Sabarkantha,37999,1296890,34.13,Reported
+2024-25,North Gujarat,Gandhinagar,18081,467050,25.83,Reported
+2024-25,North Gujarat,Aravalli,20515,698610,34.05,Reported
+2024-25,North Gujarat,Kutch,13,364,28,Reported
+2024-25,Saurashtra-Kutch,Surendranagar,0,0,0,Reported
+2024-25,Saurashtra-Kutch,Rajkot,0,0,0,Reported
+2024-25,Saurashtra-Kutch,Jamnagar,31,777,25.06,Reported
+2024-25,Saurashtra-Kutch,Porbandar,0,0,0,Reported
+2024-25,Saurashtra-Kutch,Junagadh,0,0,0,Reported
+2024-25,Saurashtra-Kutch,Amreli,0,0,0,Reported
+2024-25,Saurashtra-Kutch,Bhavnagar,0,0,0,Reported
+2024-25,Saurashtra-Kutch,Morbi,0,0,0,Reported
+2024-25,Saurashtra-Kutch,Botad,0,0,0,Reported
+2024-25,Saurashtra-Kutch,Gir Somnath,0,0,0,Reported
+2024-25,Saurashtra-Kutch,Devbhumi Dwarka,210,5670,27,Reported
+2024-25,South Gujarat,Surat,0,0,0,Reported
+2024-25,South Gujarat,Narmada,0,0,0,Reported
+2024-25,South Gujarat,Bharuch,0,0,0,Reported
+2024-25,South Gujarat,Dang,0,0,0,Reported
+2024-25,South Gujarat,Navsari,0,0,0,Reported
+2024-25,South Gujarat,Valsad,0,0,0,Reported
+2024-25,South Gujarat,Tapi,0,0,0,Reported
