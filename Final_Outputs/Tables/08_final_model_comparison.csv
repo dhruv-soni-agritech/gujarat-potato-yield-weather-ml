@@ -1,7 +1,0 @@
-Model,Feature Selection,Selected Features,R2,Pseudo-AIC,RMSE,MAE,K
-Stepwise Linear Regression,Mutual Information,"MAXT_48, MEAN_RH_49, MINT_8, MINT_48, BSS_44",0.645,61.5,2.971,2.215,5
-Random Forest,Mutual Information,"MAXT_48, MEAN_RH_49, MINT_8, MINT_48, BSS_44",0.727,13.53,2.605,1.868,5
-XGBoost,Mutual Information,"MAXT_48, MEAN_RH_49, MINT_8, MINT_48, BSS_44",0.708,-126.07,2.697,1.96,5
-SVR,Mutual Information,"MAXT_48, MEAN_RH_49, MINT_8, MINT_48, BSS_44, MAXT_43, MINT_45",0.793,-29.13,2.27,1.815,7
-KNN,Mutual Information,"MAXT_48, MEAN_RH_49, MINT_8, MINT_48",0.758,46.93,2.454,1.804,4
-ANN (MLP),Mutual Information,"MAXT_48, MEAN_RH_49, MINT_8, MINT_48, BSS_44, MAXT_43, MINT_45, BSS_48",0.33,-439.7,4.083,3.027,8

@@ -1,6 +1,0 @@
-Weather Parameter,Correlation,Significance,Significance (FDR-adjusted),p-value,N
-Minimum Temperature (°C),-0.276,ns,ns,0.147,29
-Maximum Temperature (°C),-0.236,ns,ns,0.2172,29
-Mean Relative Humidity (%),0.144,ns,ns,0.4554,29
-Bright Sunshine Hours,-0.133,ns,ns,0.4927,29
-Wind Speed,0.049,ns,ns,0.802,29
