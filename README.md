@@ -1,6 +1,6 @@
 # Gujarat Potato Yield Modelling Using Weather and Machine Learning
 
-District-wise AI/ML framework to model potato yield in the three main North Gujarat potato districts (**Banaskantha, Sabarkantha, Mehsana**) from week-wise rabi-season weather. The project integrates 29 rabi seasons of **NASA POWER** daily weather with district-level crop statistics from the Directorate of Horticulture, Govt. of Gujarat, engineers 95 weekly agro-meteorological features (plus one lag-1 yield anomaly), applies feature selection, and benchmarks 6 machine learning models using **Leave-One-Out Cross-Validation (LOOCV)**.
+District-wise AI/ML framework to model potato yield in two major North Gujarat potato districts (**Sabarkantha and Mehsana**) from week-wise rabi-season weather. The project integrates 29 rabi seasons of **NASA POWER** daily weather with district-level crop statistics from the Directorate of Horticulture, Govt. of Gujarat, engineers 95 weekly agro-meteorological features (plus one lag-1 yield anomaly), applies feature selection, and benchmarks 6 machine learning models using **Leave-One-Out Cross-Validation (LOOCV)**.
 
 Academic project submitted to Dr. V. B. Vaidya.
 
@@ -9,7 +9,7 @@ Academic project submitted to Dr. V. B. Vaidya.
 ## Why this project
 
 - Gujarat produced about **48.59 lakh MT** of potato in 2024-25 and contributes about **6.62%** of India's potato production.
-- Production is concentrated in three northern districts, so district-specific yield estimation matters for cold-storage planning, market stability and agricultural resource management.
+- Production is concentrated in the northern districts, so district-specific yield estimation matters for cold-storage planning, market stability and agricultural resource management.
 - Yield depends not only on how much weather occurs but **when** it occurs. A seasonal average can hide a short cold or heat spell at a sensitive stage, so this project uses week-wise features aligned to crop growth stages instead of seasonal means.
 
 ---
@@ -40,11 +40,10 @@ Academic project submitted to Dr. V. B. Vaidya.
 - **BSS derivation:** NASA POWER provides solar radiation, not sunshine hours. BSS was derived with the **Angstrom-Prescott relation**, `Rs = Ra [a + b (n/N)]`, rearranged as `n = N * ((Rs/Ra) - a) / b` and clipped to 0..N, using extraterrestrial radiation (Ra) and maximum possible sunshine hours (N) from standard 24 deg N latitude tables and coefficients `a = 0.25`, `b = 0.50`.
 - **Rainfall is intentionally excluded.** The framework isolates atmospheric micro-climate drivers (temperature, humidity, wind, sunshine).
 
-### Rabi-season climate of the three districts (SMW 42-8 mean)
+### Rabi-season climate of the two districts (SMW 42-8 mean)
 
 | District | MAXT (deg C) | MINT (deg C) | RH (%) | WS (m/s) | BSS (h/day) |
 |---|---|---|---|---|---|
-| Banaskantha | 30.04 | 14.06 | 34.12 | 2.77 | 8.79 |
 | Sabarkantha | 30.40 | 14.38 | 34.81 | 3.07 | 8.64 |
 | Mehsana | 31.38 | 14.83 | 35.82 | 2.92 | 9.24 |
 
@@ -121,23 +120,11 @@ The selected model is retrained on the full dataset and its predicted anomaly is
 | District | Best model | Feature selection | Features | R2 | RMSE (MT/ha) | MAE (MT/ha) |
 |---|---|---|---|---|---|---|
 | Sabarkantha | SVR | Mutual Information | 3 | **0.871** | 1.789 | 1.250 |
-| Banaskantha | SVR | RFE | 10 | **0.732** | 1.083 | 0.937 |
 | Mehsana | Multiple Linear Regression | SelectKBest (F-test) | 5 | **0.590** | 1.231 | 0.948 |
 
 **No single algorithm or selection method wins everywhere.** Each district needs its own model and feature selection logic.
 
 ### Full LOOCV results
-
-**Banaskantha**
-
-| Model | R2 | RMSE | MAE | Selection |
-|---|---|---|---|---|
-| Stepwise Linear Regression | 0.714 | 1.119 | 0.922 | RFE |
-| Random Forest | -0.007 | 2.099 | 1.644 | SelectKBest |
-| XGBoost | 0.013 | 2.078 | 1.629 | SelectKBest |
-| **SVR** | **0.732** | **1.083** | **0.937** | RFE |
-| KNN | 0.230 | 1.836 | 1.461 | SelectKBest |
-| ANN (MLP) | 0.490 | 1.494 | 1.280 | RFE |
 
 **Sabarkantha**
 
@@ -164,7 +151,6 @@ The selected model is retrained on the full dataset and its predicted anomaly is
 ### Selected features of the best models (parameter - SMW)
 
 - **Sabarkantha (SVR):** Tmax-48, Mean RH-49, Tmin-8
-- **Banaskantha (SVR):** BSS-44, WS-44, WS-45, BSS-49, Tmin-50, Tmin-52, Tmax-5, BSS-5, Tmin-6, WS-8
 - **Mehsana (MLR):** WS-49, WS-52, WS-1, Tmin-43, Lag-1 yield anomaly
 
 ### Weather-yield relationships (Pearson correlation with detrended yield)
@@ -173,7 +159,6 @@ Week-wise correlation heatmaps for each district are in `Outputs/`.
 
 | District | Strongest positive | Strongest negative |
 |---|---|---|
-| Banaskantha | Wind speed, SMW 6 (r = +0.47) | MAXT, SMW 3 (r = -0.36) |
 | Sabarkantha | MEAN_RH, SMW 44-46 (r = +0.30, +0.29) | MAXT, SMW 3 and 4 (r = -0.34, -0.33) |
 | Mehsana | Wind speed, SMW 49 (r = +0.34) | BSS at SMW 49 and MINT at SMW 4 (r = -0.33 each) |
 
@@ -183,13 +168,12 @@ Mapping the strongest weather associations back to crop stages shows a different
 
 - **Sabarkantha: establishment stage.** Mean temperature around SMW 44 is the strongest negative association; humidity at SMW 43 is the strongest positive one.
 - **Mehsana: tuber initiation.** Wind speed at SMW 49 is the strongest positive association.
-- **Banaskantha: maturation.** Wind speed at SMW 6 is the strongest positive association, alongside negative associations with temperature in the same weeks.
 
 ### Key takeaways
 
 - **District-specific modelling is necessary.** The best algorithm, feature-selection method and feature count all differ across districts.
 - **Parsimonious models work best.** The top Sabarkantha model uses only 3 predictors out of 96.
-- **Tree ensembles did not outperform SVR or linear models** on these small district series. Random Forest and XGBoost were near zero R2 for Banaskantha.
+- **Tree ensembles did not outperform SVR or linear models** on these small district series.
 - **Week-wise features carry signal that seasonal averages would hide**, and different growth stages are sensitive to different parameters in each district.
 
 ---
