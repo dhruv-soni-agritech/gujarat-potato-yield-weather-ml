@@ -1,0 +1,7 @@
+Model,Feature Selection,K,Selected Features
+Stepwise Linear Regression,Mutual Information,5,"MAXT_48, MEAN_RH_49, MINT_8, MINT_48, BSS_44"
+Random Forest,Mutual Information,5,"MAXT_48, MEAN_RH_49, MINT_8, MINT_48, BSS_44"
+XGBoost,Mutual Information,5,"MAXT_48, MEAN_RH_49, MINT_8, MINT_48, BSS_44"
+SVR,Mutual Information,7,"MAXT_48, MEAN_RH_49, MINT_8, MINT_48, BSS_44, MAXT_43, MINT_45"
+KNN,Mutual Information,4,"MAXT_48, MEAN_RH_49, MINT_8, MINT_48"
+ANN (MLP),Mutual Information,8,"MAXT_48, MEAN_RH_49, MINT_8, MINT_48, BSS_44, MAXT_43, MINT_45, BSS_48"
