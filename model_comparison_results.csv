@@ -1,0 +1,22 @@
+Model,R2,RMSE,MAE,Feature Selection,No. of features,Selected Features (Weather parameters with meteorological week)
+Multiple Linear Regression,0.59**,1.231,0.948,SelectKBest (F-test),5,"WS (49, 52, 1)
+MINT (43)
+Lag-1 Yield Anomaly"
+XGBoost,0.45**,1.424,1.165,Forward Selection,5,"WS (49, 52)
+MINT (44, 49)
+Lag-1 Yield Anomaly"
+KNN,0.45**,1.434,1.265,Forward Selection,6,"WS (49, 52)
+MAXT (1)
+MINT (44, 49)
+Lag-1 Yield Anomaly"
+SVR,0.41**,1.483,1.258,Forward Selection,5,"WS (49, 52)
+MINT (44, 49)
+Lag-1 Yield Anomaly"
+Random Forest,0.39**,1.506,1.12,SelectKBest (F-test),5,"WS (49, 52, 1)
+MINT (43)
+Lag-1 Yield Anomaly"
+ANN (MLP),0.34**,1.567,1.252,SelectKBest (F-test),7,"BSS (52)
+WS (49, 52, 1)
+MAXT (52)
+MINT (43)
+Lag-1 Yield Anomaly"
